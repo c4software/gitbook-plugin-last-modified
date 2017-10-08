@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-last-modified",
+  "version": "1.0.0",
+  "description": "GitBook plugin that adds the \"last modified\" info under every page title ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymcatar/gitbook-plugin-last-modified.git"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "author": "ymcatar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ymcatar/gitbook-plugin-last-modified/issues"
+  },
+  "homepage": "https://github.com/ymcatar/gitbook-plugin-last-modified#readme"
+}
